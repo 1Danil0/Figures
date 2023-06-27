@@ -1,4 +1,4 @@
 package Figures.Triangles;
 
-public class TriangleRavnobedr {
+public class TriangleRavnobedr extends Triangle{
 }

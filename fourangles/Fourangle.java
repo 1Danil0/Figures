@@ -1,4 +1,6 @@
 package Figures.fourangles;
 
-public class Fourangle {
+import Figures.Figure;
+
+public class Fourangle extends Figure {
 }

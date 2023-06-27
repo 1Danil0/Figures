@@ -1,4 +1,4 @@
 package Figures.fourangles;
 
-public class Pryamougl {
+public class Pryamougl extends FoirangleVipukl{
 }

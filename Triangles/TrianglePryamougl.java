@@ -1,4 +1,4 @@
 package Figures.Triangles;
 
-public class TrianglePryamougl {
+public class TrianglePryamougl extends Triangle{
 }

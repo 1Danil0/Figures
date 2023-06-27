@@ -1,4 +1,4 @@
 package Figures.fourangles;
 
-public class Kvadrat {
+public class Kvadrat extends FoirangleVipukl{
 }

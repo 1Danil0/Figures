@@ -1,4 +1,6 @@
 package Figures.Triangles;
 
-public class Triangle {
+import Figures.Figure;
+
+public class Triangle extends Figure {
 }

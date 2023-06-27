@@ -1,4 +1,4 @@
 package Figures.Triangles;
 
-public class TriangleRavnostoron {
+public class TriangleRavnostoron extends Triangle{
 }

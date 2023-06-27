@@ -1,4 +1,4 @@
 package Figures.fourangles;
 
-public class FoirangleVipukl {
+public class FoirangleVipukl extends Fourangle{
 }

@@ -1,4 +1,4 @@
 package Figures;
 
-public class Sixngles {
+public class Sixngles extends Figure{
 }

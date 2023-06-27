@@ -1,4 +1,4 @@
 package Figures;
 
-public class Oval {
+public class Oval extends Figure{
 }

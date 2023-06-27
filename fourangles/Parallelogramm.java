@@ -1,4 +1,4 @@
 package Figures.fourangles;
 
-public class Parallelogramm {
+public class Parallelogramm extends FoirangleVipukl{
 }

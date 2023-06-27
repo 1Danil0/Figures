@@ -1,4 +1,4 @@
 package Figures.fourangles;
 
-public class Romb {
+public class Romb extends FoirangleVipukl{
 }

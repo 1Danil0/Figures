@@ -1,4 +1,4 @@
 package Figures;
 
-public class Fivengles {
+public class Fivengles extends Figure{
 }
